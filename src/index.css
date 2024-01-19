@@ -69,6 +69,7 @@ button:focus-visible {
 
 .text-red {
   color: red;
+  text-align: left;
 }
 
 .login-form {
@@ -76,7 +77,6 @@ button:focus-visible {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   gap: 1rem;
 }
 
